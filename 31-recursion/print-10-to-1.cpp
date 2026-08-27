@@ -3,7 +3,6 @@ using namespace std;
 
 void printNum(int n)
 {
-
     if (n == 0)
         return;
 
@@ -13,8 +12,6 @@ void printNum(int n)
 
 int main()
 {
-
     printNum(10);
-
     return 0;
 }
